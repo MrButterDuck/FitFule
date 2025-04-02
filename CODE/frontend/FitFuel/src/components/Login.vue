@@ -50,7 +50,7 @@
           localStorage.setItem('refresh_token', response.data.refresh);
           localStorage.setItem('username', this.username);
           window.dispatchEvent(new Event('auth-changed'));
-          this.$router.push('/');
+          this.$router.push('/profile');
         } catch (error) {
           const data = error.response?.data;
           const firstKey = Object.keys(data)[0];
@@ -61,7 +61,7 @@
           } else if (typeof firstError === 'string') {
             errorMessage = `${firstKey}: ${firstError}`;
           }
-          this.$root.showErrorModal('Ошибка при входе', errorMessage);
+          this.$root.showErrorModal('Неверные логин или пароль', errorMessage);
         }
       },
     },

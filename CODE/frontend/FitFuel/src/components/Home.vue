@@ -40,7 +40,7 @@
                     min="1"
                     class="w-16 px-2 py-1 border rounded"
                   />
-                  <span>{{ item.calories * item.quantity }} ккал</span>
+                  <span>{{ Math.max((item.calories * item.quantity).toFixed(3), 0) }} ккал</span>
                 </div>
                 <button @click="removeItem(index)" class="text-red-500 hover:text-red-700">Удалить</button>
               </li>
@@ -142,10 +142,10 @@
       calculateCalories() {
         const total = this.selectedItems.reduce(
           (acc, item) => {
-            acc.calories += item.calories * item.quantity;
-            acc.proteins += item.proteins * item.quantity;
-            acc.fats += item.fats * item.quantity;
-            acc.carbs += item.carbohydrates * item.quantity;
+            acc.calories += +(item.calories * item.quantity).toFixed(3);
+            acc.proteins += +(item.proteins * item.quantity).toFixed(3);
+            acc.fats += +(item.fats * item.quantity).toFixed(3);
+            acc.carbs += +(item.carbohydrates * item.quantity).toFixed(3);
             return acc;
           },
           { calories: 0, proteins: 0, fats: 0, carbs: 0 }

@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-4xl mx-auto p-4">
+  <div v-if="isAuthenticated" class="max-w-4xl mx-auto p-4">
     <h1 class="text-3xl font-bold mb-4">Личный кабинет</h1>
     <div class="bg-white shadow-lg rounded-lg p-6">
       <div v-if="!isEditing" class="space-y-4">
@@ -109,6 +109,10 @@
       </form>
     </div>
   </div>
+  <div v-else class="inset-0 flex flex-col items-center justify-center text-center">
+    <h1 class="text-3xl font-bold text-red-900 mb-4">Вы не авторизовались!</h1>
+    <h2 class="text-3xl font-bold mb-4">Пожалуйста, войдите или зарегистрируйтесь</h2>
+  </div>
 </template>
 
 <script>
@@ -117,6 +121,7 @@ import api from '../api';
 export default {
   data() {
     return {
+      isAuthenticated: !!localStorage.getItem('access_token'),
       user: { allergyItems: [], favoriteItems: [] },
       isEditing: false,
       allergyQuery: '',

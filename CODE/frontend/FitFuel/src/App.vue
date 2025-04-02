@@ -10,7 +10,6 @@
         :isGood="isGoodModal" 
         @close="showError = false" 
       />
-      <router-view />
     </div>
     <Footer />
   </div>

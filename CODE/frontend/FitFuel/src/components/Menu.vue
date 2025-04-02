@@ -6,19 +6,19 @@
                 <div>
                     <label class="block text-sm font-medium text-gray-700">Цена (мин - макс)</label>
                     <div class="flex space-x-2 mt-2">
-                        <input v-model="filters.priceMin" type="number" placeholder="Мин" class="w-full p-2 border rounded">
-                        <input v-model="filters.priceMax" type="number" placeholder="Макс" class="w-full p-2 border rounded">
+                        <input v-model="filters.priceMin" type="number" min="0"placeholder="Мин" class="w-full p-2 border rounded">
+                        <input v-model="filters.priceMax" type="number" min="0" placeholder="Макс" class="w-full p-2 border rounded">
                     </div>
                 </div>
                 <div>
                     <label class="block text-sm font-medium text-gray-700">Калории</label>
-                    <Slider v-model="calorieRange" :min="0" :max="2000" :tooltip="true" class="mt-2" />
+                    <Slider v-model="calorieRange" :min="0" :max="1000" :tooltip="true" class="mt-2" />
                     <div class="flex justify-between text-sm text-gray-600 mt-2">
                         <span>{{ calorieRange[0] }} ккал</span>
                         <span>{{ calorieRange[1] }} ккал</span>
                     </div>
                 </div>
-                <div>
+                <div :class="{ 'col-span-2': !isAuthenticated, 'col-span-1': isAuthenticated }">
                 <label class="block text-sm font-medium text-gray-700">Время приема пищи</label>
                 <select v-model="filters.mealTime" class="w-full p-2 border rounded mt-2">
                     <option value="">Любое</option>
@@ -28,7 +28,7 @@
                     <option value="snack">Перекус</option>
                 </select>
                 </div>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div v-if="isAuthenticated" class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="flex items-center md:justify-end mt-4 md:mt-0">
                         <input type="checkbox" id="excludeAllergens" v-model="filters.excludeAllergens" class="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500">
                         <label for="excludeAllergens" class="ml-2 text-sm text-gray-700">Исключить аллергены</label>
@@ -82,7 +82,7 @@
       <div v-for="dish in dishes" :key="dish.id" class="bg-white shadow rounded-lg p-4">
         <h2 class="text-xl font-bold">{{ dish.name }}</h2>
         <p class="text-sm text-gray-600">Цена: {{ dish.price }} ₽</p>
-        <p class="text-sm text-gray-600">Калории: {{ dish.calories }} ккал</p>
+        <p class="text-sm text-gray-600">Калории: {{ (dish.calories).toFixed(3) }} ккал</p>
         <p class="text-sm text-gray-600">Тип: {{ mealTypeLabel(dish.meal_type) }}</p>
         <button @click="toggleIngredients(dish.id)" class="mt-2 text-blue-500 hover:underline">
           {{ showIngredients[dish.id] ? 'Скрыть ингредиенты' : 'Показать ингредиенты' }}
@@ -107,6 +107,7 @@
     components: { Slider },
     data() {
       return {
+        isAuthenticated: !!localStorage.getItem('access_token'),
         filters: {
           priceMin: '',
           priceMax: '',
@@ -115,7 +116,7 @@
           includeFavorites: false,
           includeProducts: [],
         },
-        calorieRange: [0, 2000],
+        calorieRange: [0, 1000],
         dishes: [],
         favoriteQuery: '',
         favoriteSuggestions: [],
@@ -133,6 +134,10 @@
                 this.dishes = [];
                 this.hasMore = true;
             }
+            if (this.filters.priceMin < 0 || this.filters.priceMax < 0 || this.filters.priceMin > this.filters.priceMax){
+                this.$root.showErrorModal('Некорректный ввод', 'проверьте поля ввода цены');
+                return;
+            }
             if (this.loading || !this.hasMore) return;
                 this.loading = true;
             const params = {
@@ -146,6 +151,7 @@
                 limit: this.pageSize,
                 offset: (this.page - 1) * this.pageSize,
             };
+
             try {
                 const response = await api.get('/recipes/', { params });
                 this.hasMore = response.data.next !== null

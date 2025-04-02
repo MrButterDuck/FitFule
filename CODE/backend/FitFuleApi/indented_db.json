@@ -1,0 +1,6087 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "200",
+    "object_repr": "Говядина - 66.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "199",
+    "object_repr": "Морковь - 137.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "198",
+    "object_repr": "Мёд - 186.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "197",
+    "object_repr": "Творог - 76.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "196",
+    "object_repr": "Кокосовое масло - 157.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "195",
+    "object_repr": "Помидоры - 133.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "194",
+    "object_repr": "Черника - 128.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "193",
+    "object_repr": "Груши - 53.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "192",
+    "object_repr": "Куриное филе - 172.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "191",
+    "object_repr": "Тунец - 115.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "190",
+    "object_repr": "Виноград - 266.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "189",
+    "object_repr": "Говядина - 247.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "188",
+    "object_repr": "Чеснок - 264.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "187",
+    "object_repr": "Авокадо - 170.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "186",
+    "object_repr": "Льняное семя - 56.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "185",
+    "object_repr": "Апельсины - 134.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "184",
+    "object_repr": "Картофель - 197.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "183",
+    "object_repr": "Апельсины - 106.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "182",
+    "object_repr": "Киноа - 95.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "181",
+    "object_repr": "Лимон - 272.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "180",
+    "object_repr": "Помидоры - 71.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "179",
+    "object_repr": "Лосось - 73.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "178",
+    "object_repr": "Рис - 273.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "177",
+    "object_repr": "Клубника - 83.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "176",
+    "object_repr": "Говядина - 135.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "175",
+    "object_repr": "Свекла - 189.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "174",
+    "object_repr": "Лимон - 240.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "173",
+    "object_repr": "Клубника - 176.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "172",
+    "object_repr": "Паста - 176.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "171",
+    "object_repr": "Груши - 166.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "170",
+    "object_repr": "Брокколи - 83.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "169",
+    "object_repr": "Киноа - 172.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "168",
+    "object_repr": "Бананы - 188.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "167",
+    "object_repr": "Картофель - 260.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "166",
+    "object_repr": "Мёд - 213.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "165",
+    "object_repr": "Свекла - 94.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "164",
+    "object_repr": "Креветки - 131.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "163",
+    "object_repr": "Лосось - 205.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "162",
+    "object_repr": "Лимон - 62.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "161",
+    "object_repr": "Куриное филе - 74.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "160",
+    "object_repr": "Овсяные хлопья - 185.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "159",
+    "object_repr": "Бананы - 94.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "158",
+    "object_repr": "Помидоры - 152.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "157",
+    "object_repr": "Цветная капуста - 236.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "156",
+    "object_repr": "Морковь - 208.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "155",
+    "object_repr": "Черника - 246.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.862Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "154",
+    "object_repr": "Картофель - 85.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "153",
+    "object_repr": "Черника - 157.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "152",
+    "object_repr": "Киноа - 130.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "151",
+    "object_repr": "Кокосовое масло - 91.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "150",
+    "object_repr": "Морковь - 189.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "149",
+    "object_repr": "Брокколи - 214.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "148",
+    "object_repr": "Салат айсберг - 253.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "147",
+    "object_repr": "Киноа - 182.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "146",
+    "object_repr": "Яблоки - 284.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "145",
+    "object_repr": "Свекла - 117.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "144",
+    "object_repr": "Авокадо - 70.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "143",
+    "object_repr": "Апельсины - 110.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "142",
+    "object_repr": "Огурцы - 272.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "141",
+    "object_repr": "Соевый соус - 73.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "140",
+    "object_repr": "Бананы - 119.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "139",
+    "object_repr": "Киви - 183.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "138",
+    "object_repr": "Молоко - 178.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "137",
+    "object_repr": "Сыр пармезан - 190.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "136",
+    "object_repr": "Яйца - 206.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "135",
+    "object_repr": "Креветки - 188.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "134",
+    "object_repr": "Киви - 187.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "133",
+    "object_repr": "Овсяные хлопья - 228.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "132",
+    "object_repr": "Киноа - 299.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "131",
+    "object_repr": "Яблоки - 263.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "130",
+    "object_repr": "Авокадо - 273.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "129",
+    "object_repr": "Греческий йогурт - 98.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "128",
+    "object_repr": "Киви - 279.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "127",
+    "object_repr": "Киноа - 122.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "126",
+    "object_repr": "Орехи грецкие - 178.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "125",
+    "object_repr": "Овсяные хлопья - 217.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "124",
+    "object_repr": "Черника - 282.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "123",
+    "object_repr": "Сыр пармезан - 295.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "122",
+    "object_repr": "Хлеб цельнозерновой - 166.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "121",
+    "object_repr": "Креветки - 76.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "120",
+    "object_repr": "Сыр пармезан - 137.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "119",
+    "object_repr": "Овсяные хлопья - 134.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "118",
+    "object_repr": "Греческий йогурт - 123.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "117",
+    "object_repr": "Лимон - 290.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "116",
+    "object_repr": "Орехи грецкие - 130.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "115",
+    "object_repr": "Орехи грецкие - 141.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "114",
+    "object_repr": "Лосось - 294.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "113",
+    "object_repr": "Имбирь - 67.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "112",
+    "object_repr": "Льняное семя - 290.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "111",
+    "object_repr": "Морковь - 116.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "110",
+    "object_repr": "Яйца - 133.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "109",
+    "object_repr": "Свинина - 100.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "108",
+    "object_repr": "Морковь - 159.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "107",
+    "object_repr": "Кокосовое масло - 201.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "106",
+    "object_repr": "Соевый соус - 291.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "105",
+    "object_repr": "Помидоры - 178.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "104",
+    "object_repr": "Молоко - 100.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "103",
+    "object_repr": "Оливковое масло - 207.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "102",
+    "object_repr": "Говядина - 208.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2025-04-02T11:23:52.863Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "101",
+    "object_repr": "Имбирь - 155.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "100",
+    "object_repr": "Брокколи - 114.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "99",
+    "object_repr": "Имбирь - 188.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "98",
+    "object_repr": "Малина - 250.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "97",
+    "object_repr": "Груши - 207.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "96",
+    "object_repr": "Яйца - 282.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "95",
+    "object_repr": "Имбирь - 95.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "94",
+    "object_repr": "Салат айсберг - 181.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "93",
+    "object_repr": "Творог - 222.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "92",
+    "object_repr": "Яйца - 260.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "91",
+    "object_repr": "Помидоры - 164.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "90",
+    "object_repr": "Греческий йогурт - 142.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "89",
+    "object_repr": "Картофель - 248.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "88",
+    "object_repr": "Хлеб цельнозерновой - 116.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "87",
+    "object_repr": "Бананы - 241.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "86",
+    "object_repr": "Имбирь - 120.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "85",
+    "object_repr": "Брокколи - 152.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "84",
+    "object_repr": "Орехи грецкие - 64.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "83",
+    "object_repr": "Клубника - 209.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "82",
+    "object_repr": "Чеснок - 61.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "81",
+    "object_repr": "Говядина - 113.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "80",
+    "object_repr": "Авокадо - 245.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "79",
+    "object_repr": "Яблоки - 232.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "78",
+    "object_repr": "Мидии - 140.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "77",
+    "object_repr": "Апельсины - 288.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "76",
+    "object_repr": "Картофель - 113.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "75",
+    "object_repr": "Льняное семя - 113.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "74",
+    "object_repr": "Свекла - 153.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "73",
+    "object_repr": "Виноград - 271.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "72",
+    "object_repr": "Семена чиа - 218.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "71",
+    "object_repr": "Мидии - 241.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "70",
+    "object_repr": "Молоко - 252.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "69",
+    "object_repr": "Фундук - 163.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "68",
+    "object_repr": "Паста - 264.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "67",
+    "object_repr": "Сыр пармезан - 164.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "66",
+    "object_repr": "Говядина - 267.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "65",
+    "object_repr": "Молоко - 163.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "64",
+    "object_repr": "Льняное семя - 194.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "63",
+    "object_repr": "Киви - 145.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "62",
+    "object_repr": "Черника - 210.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "61",
+    "object_repr": "Рис - 62.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "60",
+    "object_repr": "Морковь - 257.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "59",
+    "object_repr": "Хлеб цельнозерновой - 212.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "58",
+    "object_repr": "Лосось - 283.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "57",
+    "object_repr": "Кокосовое масло - 244.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "56",
+    "object_repr": "Оливковое масло - 55.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "55",
+    "object_repr": "Рис - 120.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "54",
+    "object_repr": "Семена чиа - 86.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "53",
+    "object_repr": "Семена чиа - 278.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "52",
+    "object_repr": "Лимон - 172.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "51",
+    "object_repr": "Цветная капуста - 173.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "50",
+    "object_repr": "Малина - 149.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "49",
+    "object_repr": "Соевый соус - 92.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "48",
+    "object_repr": "Сыр пармезан - 244.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "47",
+    "object_repr": "Помидоры - 291.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "46",
+    "object_repr": "Картофель - 255.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "45",
+    "object_repr": "Хлеб цельнозерновой - 264.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "44",
+    "object_repr": "Малина - 209.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "43",
+    "object_repr": "Черника - 96.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "42",
+    "object_repr": "Молоко - 206.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "41",
+    "object_repr": "Огурцы - 106.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "40",
+    "object_repr": "Овсяные хлопья - 165.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.473Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "39",
+    "object_repr": "Киви - 233.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "38",
+    "object_repr": "Шпинат - 269.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "37",
+    "object_repr": "Овсяные хлопья - 106.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "36",
+    "object_repr": "Киноа - 241.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "35",
+    "object_repr": "Бананы - 50.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "34",
+    "object_repr": "Миндаль - 223.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 168,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "33",
+    "object_repr": "Креветки - 168.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 169,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "32",
+    "object_repr": "Рис - 240.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 170,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "31",
+    "object_repr": "Творог - 169.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 171,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "30",
+    "object_repr": "Мидии - 300.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 172,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "29",
+    "object_repr": "Морковь - 134.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 173,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "28",
+    "object_repr": "Куриное филе - 162.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 174,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "27",
+    "object_repr": "Помидоры - 175.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 175,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "26",
+    "object_repr": "Салат айсберг - 160.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 176,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "25",
+    "object_repr": "Бананы - 151.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 177,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "24",
+    "object_repr": "Огурцы - 191.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 178,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "23",
+    "object_repr": "Креветки - 100.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 179,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "22",
+    "object_repr": "Киноа - 242.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 180,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "21",
+    "object_repr": "Оливковое масло - 146.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 181,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "20",
+    "object_repr": "Кокосовое масло - 200.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 182,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "19",
+    "object_repr": "Авокадо - 77.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 183,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "18",
+    "object_repr": "Сыр пармезан - 250.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 184,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "17",
+    "object_repr": "Миндаль - 157.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 185,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "16",
+    "object_repr": "Капуста - 250.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 186,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "15",
+    "object_repr": "Шпинат - 181.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 187,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "14",
+    "object_repr": "Клубника - 81.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 188,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "13",
+    "object_repr": "Свинина - 188.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 189,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Молоко - 142.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 190,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Лосось - 236.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 191,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Миндаль - 143.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 192,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Яблоки - 234.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 193,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Имбирь - 281.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 194,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Лосось - 110.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 195,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Тунец - 268.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 196,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Кокосовое масло - 144.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 197,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Авокадо - 202.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 198,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Свекла - 180.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 199,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Соевый соус - 56.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 200,
+  "fields": {
+    "action_time": "2025-04-02T11:24:01.474Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Салат айсберг - 258.0g",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 201,
+  "fields": {
+    "action_time": "2025-04-02T11:29:40.831Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "201",
+    "object_repr": "Куриное филе - 300.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 202,
+  "fields": {
+    "action_time": "2025-04-02T11:30:06.851Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "202",
+    "object_repr": "Авокадо - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 203,
+  "fields": {
+    "action_time": "2025-04-02T11:33:02.554Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "203",
+    "object_repr": "Говядина - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 204,
+  "fields": {
+    "action_time": "2025-04-02T11:33:53.532Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "204",
+    "object_repr": "Оливковое масло - 5.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 205,
+  "fields": {
+    "action_time": "2025-04-02T11:34:27.958Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "205",
+    "object_repr": "Помидоры - 120.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 206,
+  "fields": {
+    "action_time": "2025-04-02T11:35:43.254Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "206",
+    "object_repr": "Картофель - 300.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 207,
+  "fields": {
+    "action_time": "2025-04-02T11:35:55.925Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "207",
+    "object_repr": "Морковь - 40.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 208,
+  "fields": {
+    "action_time": "2025-04-02T11:36:15.329Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "208",
+    "object_repr": "Помидоры - 120.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 209,
+  "fields": {
+    "action_time": "2025-04-02T11:36:23.216Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "209",
+    "object_repr": "Паста - 50.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 210,
+  "fields": {
+    "action_time": "2025-04-02T11:36:35.894Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "210",
+    "object_repr": "Сыр пармезан - 100.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 211,
+  "fields": {
+    "action_time": "2025-04-02T11:37:24.891Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "211",
+    "object_repr": "Лосось - 400.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 212,
+  "fields": {
+    "action_time": "2025-04-02T11:37:30.588Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "212",
+    "object_repr": "Брокколи - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 213,
+  "fields": {
+    "action_time": "2025-04-02T11:38:06.902Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "213",
+    "object_repr": "Паста - 300.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 214,
+  "fields": {
+    "action_time": "2025-04-02T11:39:07.271Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "214",
+    "object_repr": "Говядина - 300.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 215,
+  "fields": {
+    "action_time": "2025-04-02T11:39:17.380Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "215",
+    "object_repr": "Морковь - 40.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 216,
+  "fields": {
+    "action_time": "2025-04-02T11:39:27.676Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "216",
+    "object_repr": "Помидоры - 100.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 217,
+  "fields": {
+    "action_time": "2025-04-02T11:40:00.954Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "217",
+    "object_repr": "Оливковое масло - 12.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 218,
+  "fields": {
+    "action_time": "2025-04-02T11:40:37.389Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "218",
+    "object_repr": "Куриное филе - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 219,
+  "fields": {
+    "action_time": "2025-04-02T11:40:45.606Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "219",
+    "object_repr": "Сыр пармезан - 50.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 220,
+  "fields": {
+    "action_time": "2025-04-02T11:41:05.163Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "220",
+    "object_repr": "Салат айсберг - 100.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 221,
+  "fields": {
+    "action_time": "2025-04-02T11:41:16.811Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "221",
+    "object_repr": "Оливковое масло - 70.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 222,
+  "fields": {
+    "action_time": "2025-04-02T11:42:23.880Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "222",
+    "object_repr": "Чеснок - 20.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 223,
+  "fields": {
+    "action_time": "2025-04-02T11:45:51.615Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "223",
+    "object_repr": "Рис - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 224,
+  "fields": {
+    "action_time": "2025-04-02T11:45:58.725Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "224",
+    "object_repr": "Куриное филе - 300.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 225,
+  "fields": {
+    "action_time": "2025-04-02T11:46:07.612Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "225",
+    "object_repr": "Морковь - 40.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 226,
+  "fields": {
+    "action_time": "2025-04-02T11:46:17.610Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "226",
+    "object_repr": "Чеснок - 25.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 227,
+  "fields": {
+    "action_time": "2025-04-02T11:46:35.336Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "227",
+    "object_repr": "Оливковое масло - 10.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 228,
+  "fields": {
+    "action_time": "2025-04-02T11:47:22.824Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "228",
+    "object_repr": "Помидоры - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 229,
+  "fields": {
+    "action_time": "2025-04-02T11:47:29.600Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "229",
+    "object_repr": "Огурцы - 50.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 230,
+  "fields": {
+    "action_time": "2025-04-02T11:47:48.906Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "230",
+    "object_repr": "Сыр пармезан - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 231,
+  "fields": {
+    "action_time": "2025-04-02T11:48:00.116Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "231",
+    "object_repr": "Оливковое масло - 40.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 232,
+  "fields": {
+    "action_time": "2025-04-02T11:49:08.288Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "232",
+    "object_repr": "Киноа - 100.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 233,
+  "fields": {
+    "action_time": "2025-04-02T11:49:15.154Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "233",
+    "object_repr": "Тунец - 180.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 234,
+  "fields": {
+    "action_time": "2025-04-02T11:49:24.915Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "234",
+    "object_repr": "Авокадо - 220.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 235,
+  "fields": {
+    "action_time": "2025-04-02T11:49:33.766Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "235",
+    "object_repr": "Огурцы - 120.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 236,
+  "fields": {
+    "action_time": "2025-04-02T11:49:40.432Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "236",
+    "object_repr": "Салат айсберг - 70.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 237,
+  "fields": {
+    "action_time": "2025-04-02T11:49:51.125Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "237",
+    "object_repr": "Семена чиа - 2.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 238,
+  "fields": {
+    "action_time": "2025-04-02T11:49:57.959Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "238",
+    "object_repr": "Соевый соус - 30.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 239,
+  "fields": {
+    "action_time": "2025-04-02T11:50:05.441Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "239",
+    "object_repr": "Оливковое масло - 34.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 240,
+  "fields": {
+    "action_time": "2025-04-02T11:50:41.276Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "240",
+    "object_repr": "Говядина - 500.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 241,
+  "fields": {
+    "action_time": "2025-04-02T11:50:49.707Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "241",
+    "object_repr": "Свекла - 130.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 242,
+  "fields": {
+    "action_time": "2025-04-02T11:50:59.772Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "242",
+    "object_repr": "Картофель - 250.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 243,
+  "fields": {
+    "action_time": "2025-04-02T11:51:13.888Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "243",
+    "object_repr": "Капуста - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 244,
+  "fields": {
+    "action_time": "2025-04-02T11:51:20.964Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "244",
+    "object_repr": "Морковь - 100.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 245,
+  "fields": {
+    "action_time": "2025-04-02T11:51:42.665Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "245",
+    "object_repr": "Оливковое масло - 34.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 246,
+  "fields": {
+    "action_time": "2025-04-02T11:56:23.150Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "246",
+    "object_repr": "Креветки - 1000.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 247,
+  "fields": {
+    "action_time": "2025-04-02T11:56:34.313Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "247",
+    "object_repr": "Чеснок - 40.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 248,
+  "fields": {
+    "action_time": "2025-04-02T11:56:45.005Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "248",
+    "object_repr": "Оливковое масло - 20.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 249,
+  "fields": {
+    "action_time": "2025-04-02T11:57:46.710Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "249",
+    "object_repr": "Паста - 100.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 250,
+  "fields": {
+    "action_time": "2025-04-02T11:57:52.775Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "250",
+    "object_repr": "Креветки - 200.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 251,
+  "fields": {
+    "action_time": "2025-04-02T11:58:02.450Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "251",
+    "object_repr": "Чеснок - 5.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 252,
+  "fields": {
+    "action_time": "2025-04-02T11:58:12.505Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "252",
+    "object_repr": "Оливковое масло - 17.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 253,
+  "fields": {
+    "action_time": "2025-04-02T11:58:46.580Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "253",
+    "object_repr": "Свинина - 450.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 254,
+  "fields": {
+    "action_time": "2025-04-02T11:58:59.452Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "254",
+    "object_repr": "Соевый соус - 50.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 255,
+  "fields": {
+    "action_time": "2025-04-02T11:59:20.899Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "255",
+    "object_repr": "Картофель - 360.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 256,
+  "fields": {
+    "action_time": "2025-04-02T12:00:02.075Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "256",
+    "object_repr": "Лосось - 1500.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 257,
+  "fields": {
+    "action_time": "2025-04-02T12:00:14.215Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "257",
+    "object_repr": "Лимон - 480.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 258,
+  "fields": {
+    "action_time": "2025-04-02T12:00:41.639Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "258",
+    "object_repr": "Капуста - 220.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 259,
+  "fields": {
+    "action_time": "2025-04-02T12:00:57.614Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "259",
+    "object_repr": "Лимон - 36.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 260,
+  "fields": {
+    "action_time": "2025-04-02T12:01:16.700Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "260",
+    "object_repr": "Помидоры - 150.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 261,
+  "fields": {
+    "action_time": "2025-04-02T12:01:23.546Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "261",
+    "object_repr": "Огурцы - 150.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 262,
+  "fields": {
+    "action_time": "2025-04-02T12:01:51.699Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "262",
+    "object_repr": "Хлеб цельнозерновой - 160.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 263,
+  "fields": {
+    "action_time": "2025-04-02T12:01:58.675Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "263",
+    "object_repr": "Тунец - 150.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 264,
+  "fields": {
+    "action_time": "2025-04-02T12:02:06.570Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "264",
+    "object_repr": "Сыр пармезан - 80.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 265,
+  "fields": {
+    "action_time": "2025-04-02T12:02:21.278Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "265",
+    "object_repr": "Яйца - 60.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 266,
+  "fields": {
+    "action_time": "2025-04-02T12:02:28.305Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "266",
+    "object_repr": "Шпинат - 8.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 267,
+  "fields": {
+    "action_time": "2025-04-02T12:02:57.185Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "267",
+    "object_repr": "Куриное филе - 400.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 268,
+  "fields": {
+    "action_time": "2025-04-02T12:03:06.333Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "268",
+    "object_repr": "Апельсины - 100.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 269,
+  "fields": {
+    "action_time": "2025-04-02T12:03:18.331Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "269",
+    "object_repr": "Имбирь - 12.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 270,
+  "fields": {
+    "action_time": "2025-04-02T12:03:29.982Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "270",
+    "object_repr": "Чеснок - 10.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 271,
+  "fields": {
+    "action_time": "2025-04-02T12:03:40.708Z",
+    "user": 4,
+    "content_type": 10,
+    "object_id": "271",
+    "object_repr": "Оливковое масло - 25.0g",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 4,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 4,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 4,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 4,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 5,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 5,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 5,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 5,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add Token",
+    "content_type": 6,
+    "codename": "add_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change Token",
+    "content_type": 6,
+    "codename": "change_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete Token",
+    "content_type": 6,
+    "codename": "delete_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view Token",
+    "content_type": 6,
+    "codename": "view_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add Token",
+    "content_type": 7,
+    "codename": "add_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change Token",
+    "content_type": 7,
+    "codename": "change_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete Token",
+    "content_type": 7,
+    "codename": "delete_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view Token",
+    "content_type": 7,
+    "codename": "view_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 8,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 8,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 8,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 8,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add recipe",
+    "content_type": 9,
+    "codename": "add_recipe"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change recipe",
+    "content_type": 9,
+    "codename": "change_recipe"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete recipe",
+    "content_type": 9,
+    "codename": "delete_recipe"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view recipe",
+    "content_type": 9,
+    "codename": "view_recipe"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add recipe ingredient",
+    "content_type": 10,
+    "codename": "add_recipeingredient"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change recipe ingredient",
+    "content_type": 10,
+    "codename": "change_recipeingredient"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete recipe ingredient",
+    "content_type": 10,
+    "codename": "delete_recipeingredient"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view recipe ingredient",
+    "content_type": 10,
+    "codename": "view_recipeingredient"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 11,
+    "codename": "add_customuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 11,
+    "codename": "change_customuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 11,
+    "codename": "delete_customuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 11,
+    "codename": "view_customuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add calorie calculation history",
+    "content_type": 12,
+    "codename": "add_caloriecalculationhistory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change calorie calculation history",
+    "content_type": 12,
+    "codename": "change_caloriecalculationhistory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete calorie calculation history",
+    "content_type": 12,
+    "codename": "delete_caloriecalculationhistory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view calorie calculation history",
+    "content_type": 12,
+    "codename": "view_caloriecalculationhistory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add saved menu",
+    "content_type": 13,
+    "codename": "add_savedmenu"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change saved menu",
+    "content_type": 13,
+    "codename": "change_savedmenu"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete saved menu",
+    "content_type": 13,
+    "codename": "delete_savedmenu"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view saved menu",
+    "content_type": 13,
+    "codename": "view_savedmenu"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "authtoken",
+    "model": "token"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "authtoken",
+    "model": "tokenproxy"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "calorie",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "menu",
+    "model": "recipe"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "menu",
+    "model": "recipeingredient"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "account",
+    "model": "customuser"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "account",
+    "model": "caloriecalculationhistory"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "account",
+    "model": "savedmenu"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hv56hca1u5qyv8zhcdaa8ei8erjigwc5",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2pAOjAgu3XsGwsyAVA1NSrsy3l2bdKHb_977LxXTutS49jzHUdRZoTr8bpT4kdsG5J7abdI8tWUeSW-K3mnX10ny87K7fwc19fqtj8EZQLL2hIEDuMAlDywITpCDR_IFpLA14MmWBNZkcGYAA4Z89kW9P8fWN0I:1tzwBK:jPalhmQP7nL6879LNzh8xJCaFAWfdVH0T5cJnU-LlJM",
+    "expire_date": "2025-04-16T11:22:54.404Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "l14upt9mit8o9bkm353dk1sg39fdxr00",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxZ2NDSZ8zWLteLwkgW8qnQtwdIqWA9s3Me6mE2zqmbSlzmlhdlFGn340wP0rdAd-x3prOra7zRHpX9EEXPTQuz-vh_h2MuIzfWoj70BMY9EacdERI0XoLjB6Ai2MXQ2_PIJFjDtFKJ4YEArrYOUH1_gD1jjg1:1twbeg:rX6InAt-K1hbFU3Jhqd1kpC9lqmSfojOhZGbI5M6v2o",
+    "expire_date": "2025-04-07T06:51:26.270Z"
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 1,
+  "fields": {
+    "name": "Куриное филе",
+    "calories": 242.8,
+    "proteins": 15.71,
+    "fats": 13.53,
+    "carbohydrates": 14.97
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 2,
+  "fields": {
+    "name": "Говядина",
+    "calories": 223.16,
+    "proteins": 15.3,
+    "fats": 11.99,
+    "carbohydrates": 46.99
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 3,
+  "fields": {
+    "name": "Свинина",
+    "calories": 158.01,
+    "proteins": 16.36,
+    "fats": 17.65,
+    "carbohydrates": 28.21
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 4,
+  "fields": {
+    "name": "Лосось",
+    "calories": 296.87,
+    "proteins": 2.83,
+    "fats": 13.66,
+    "carbohydrates": 14.8
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 5,
+  "fields": {
+    "name": "Тунец",
+    "calories": 246.61,
+    "proteins": 4.1,
+    "fats": 4.61,
+    "carbohydrates": 23.14
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 6,
+  "fields": {
+    "name": "Креветки",
+    "calories": 150.74,
+    "proteins": 19.52,
+    "fats": 11.44,
+    "carbohydrates": 27.53
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 7,
+  "fields": {
+    "name": "Мидии",
+    "calories": 210.6,
+    "proteins": 2.13,
+    "fats": 8.55,
+    "carbohydrates": 36.43
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 8,
+  "fields": {
+    "name": "Брокколи",
+    "calories": 195.67,
+    "proteins": 8.75,
+    "fats": 15.51,
+    "carbohydrates": 41.25
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 9,
+  "fields": {
+    "name": "Цветная капуста",
+    "calories": 50.19,
+    "proteins": 6.22,
+    "fats": 6.27,
+    "carbohydrates": 10.55
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 10,
+  "fields": {
+    "name": "Морковь",
+    "calories": 129.19,
+    "proteins": 16.57,
+    "fats": 10.17,
+    "carbohydrates": 29.68
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 11,
+  "fields": {
+    "name": "Свекла",
+    "calories": 94.69,
+    "proteins": 2.81,
+    "fats": 19.56,
+    "carbohydrates": 48.72
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 12,
+  "fields": {
+    "name": "Помидоры",
+    "calories": 232.17,
+    "proteins": 3.36,
+    "fats": 19.44,
+    "carbohydrates": 43.69
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 13,
+  "fields": {
+    "name": "Огурцы",
+    "calories": 72.3,
+    "proteins": 19.6,
+    "fats": 14.85,
+    "carbohydrates": 44.16
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 14,
+  "fields": {
+    "name": "Салат айсберг",
+    "calories": 257.4,
+    "proteins": 4.27,
+    "fats": 9.55,
+    "carbohydrates": 49.58
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 15,
+  "fields": {
+    "name": "Шпинат",
+    "calories": 171.08,
+    "proteins": 3.68,
+    "fats": 12.36,
+    "carbohydrates": 17.25
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 16,
+  "fields": {
+    "name": "Капуста",
+    "calories": 114.79,
+    "proteins": 2.64,
+    "fats": 19.17,
+    "carbohydrates": 26.19
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 17,
+  "fields": {
+    "name": "Картофель",
+    "calories": 231.12,
+    "proteins": 5.23,
+    "fats": 8.85,
+    "carbohydrates": 46.82
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 18,
+  "fields": {
+    "name": "Рис",
+    "calories": 115.26,
+    "proteins": 3.81,
+    "fats": 8.85,
+    "carbohydrates": 20.31
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 19,
+  "fields": {
+    "name": "Паста",
+    "calories": 208.49,
+    "proteins": 11.81,
+    "fats": 3.19,
+    "carbohydrates": 41.22
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 20,
+  "fields": {
+    "name": "Киноа",
+    "calories": 294.02,
+    "proteins": 15.45,
+    "fats": 1.45,
+    "carbohydrates": 18.67
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 21,
+  "fields": {
+    "name": "Овсяные хлопья",
+    "calories": 63.87,
+    "proteins": 8.63,
+    "fats": 17.22,
+    "carbohydrates": 10.54
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 22,
+  "fields": {
+    "name": "Хлеб цельнозерновой",
+    "calories": 54.26,
+    "proteins": 3.32,
+    "fats": 4.86,
+    "carbohydrates": 11.25
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 23,
+  "fields": {
+    "name": "Яблоки",
+    "calories": 52.06,
+    "proteins": 1.8,
+    "fats": 19.07,
+    "carbohydrates": 28.11
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 24,
+  "fields": {
+    "name": "Бананы",
+    "calories": 120.38,
+    "proteins": 4.98,
+    "fats": 2.06,
+    "carbohydrates": 20.28
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 25,
+  "fields": {
+    "name": "Апельсины",
+    "calories": 97.71,
+    "proteins": 7.58,
+    "fats": 9.71,
+    "carbohydrates": 34.13
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 26,
+  "fields": {
+    "name": "Груши",
+    "calories": 54.62,
+    "proteins": 8.28,
+    "fats": 4.08,
+    "carbohydrates": 44.94
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 27,
+  "fields": {
+    "name": "Киви",
+    "calories": 164.83,
+    "proteins": 17.03,
+    "fats": 1.46,
+    "carbohydrates": 41.6
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 28,
+  "fields": {
+    "name": "Виноград",
+    "calories": 95.71,
+    "proteins": 8.37,
+    "fats": 11.52,
+    "carbohydrates": 39.59
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 29,
+  "fields": {
+    "name": "Клубника",
+    "calories": 282.09,
+    "proteins": 10.14,
+    "fats": 3.84,
+    "carbohydrates": 11.29
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 30,
+  "fields": {
+    "name": "Малина",
+    "calories": 57.72,
+    "proteins": 5.54,
+    "fats": 13.9,
+    "carbohydrates": 35.6
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 31,
+  "fields": {
+    "name": "Черника",
+    "calories": 105.85,
+    "proteins": 5.22,
+    "fats": 0.01,
+    "carbohydrates": 35.94
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 32,
+  "fields": {
+    "name": "Авокадо",
+    "calories": 236.65,
+    "proteins": 17.64,
+    "fats": 18.82,
+    "carbohydrates": 38.32
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 33,
+  "fields": {
+    "name": "Яйца",
+    "calories": 182.89,
+    "proteins": 0.67,
+    "fats": 15.65,
+    "carbohydrates": 26.18
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 34,
+  "fields": {
+    "name": "Молоко",
+    "calories": 58.72,
+    "proteins": 12.03,
+    "fats": 11.99,
+    "carbohydrates": 17.61
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 35,
+  "fields": {
+    "name": "Творог",
+    "calories": 183.28,
+    "proteins": 19.4,
+    "fats": 10.25,
+    "carbohydrates": 26.76
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 36,
+  "fields": {
+    "name": "Сыр пармезан",
+    "calories": 245.27,
+    "proteins": 15.49,
+    "fats": 17.93,
+    "carbohydrates": 31.78
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 37,
+  "fields": {
+    "name": "Греческий йогурт",
+    "calories": 214.47,
+    "proteins": 9.12,
+    "fats": 3.12,
+    "carbohydrates": 22.93
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 38,
+  "fields": {
+    "name": "Миндаль",
+    "calories": 116.04,
+    "proteins": 9.83,
+    "fats": 4.8,
+    "carbohydrates": 44.2
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 39,
+  "fields": {
+    "name": "Орехи грецкие",
+    "calories": 198.16,
+    "proteins": 5.77,
+    "fats": 9.6,
+    "carbohydrates": 42.33
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 40,
+  "fields": {
+    "name": "Фундук",
+    "calories": 189.68,
+    "proteins": 11.01,
+    "fats": 17.47,
+    "carbohydrates": 20.18
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 41,
+  "fields": {
+    "name": "Семена чиа",
+    "calories": 124.66,
+    "proteins": 13.55,
+    "fats": 19.81,
+    "carbohydrates": 21.42
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 42,
+  "fields": {
+    "name": "Льняное семя",
+    "calories": 279.08,
+    "proteins": 10.19,
+    "fats": 13.39,
+    "carbohydrates": 36.03
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 43,
+  "fields": {
+    "name": "Мёд",
+    "calories": 104.59,
+    "proteins": 1.3,
+    "fats": 9.07,
+    "carbohydrates": 42.07
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 44,
+  "fields": {
+    "name": "Оливковое масло",
+    "calories": 181.67,
+    "proteins": 13.98,
+    "fats": 8.74,
+    "carbohydrates": 33.64
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 45,
+  "fields": {
+    "name": "Кокосовое масло",
+    "calories": 81.59,
+    "proteins": 5.55,
+    "fats": 4.79,
+    "carbohydrates": 18.98
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 46,
+  "fields": {
+    "name": "Соевый соус",
+    "calories": 121.14,
+    "proteins": 2.8,
+    "fats": 5.66,
+    "carbohydrates": 27.82
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 47,
+  "fields": {
+    "name": "Бальзамический уксус",
+    "calories": 98.67,
+    "proteins": 6.25,
+    "fats": 3.2,
+    "carbohydrates": 44.25
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 48,
+  "fields": {
+    "name": "Лимон",
+    "calories": 143.07,
+    "proteins": 19.75,
+    "fats": 12.54,
+    "carbohydrates": 38.02
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 49,
+  "fields": {
+    "name": "Чеснок",
+    "calories": 235.16,
+    "proteins": 15.38,
+    "fats": 13.74,
+    "carbohydrates": 16.82
+  }
+},
+{
+  "model": "calorie.product",
+  "pk": 50,
+  "fields": {
+    "name": "Имбирь",
+    "calories": 273.64,
+    "proteins": 2.99,
+    "fats": 4.85,
+    "carbohydrates": 31.62
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 1,
+  "fields": {
+    "name": "Куриный салат с авокадо",
+    "preparation_time": 21,
+    "difficulty": "Средний",
+    "calories": 198.3341091954023,
+    "proteins": 7.6545114942528745,
+    "fats": 14.516235632183907,
+    "carbohydrates": 44.33879310344828,
+    "total_weight": 696.0,
+    "price": "265.66",
+    "meal_type": "breakfast",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 2,
+  "fields": {
+    "name": "Говяжий стейк с овощами",
+    "preparation_time": 54,
+    "difficulty": "Средний",
+    "calories": 183.19045762711866,
+    "proteins": 4.132525423728813,
+    "fats": 8.42327966101695,
+    "carbohydrates": 27.41203389830509,
+    "total_weight": 1180.0,
+    "price": "464.92",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 3,
+  "fields": {
+    "name": "Суп минестроне",
+    "preparation_time": 41,
+    "difficulty": "Легкий",
+    "calories": 195.55580917874394,
+    "proteins": 8.380724637681158,
+    "fats": 13.034710144927535,
+    "carbohydrates": 18.51888888888889,
+    "total_weight": 828.0,
+    "price": "386.78",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 4,
+  "fields": {
+    "name": "Лосось с брокколи на пару",
+    "preparation_time": 28,
+    "difficulty": "Средний",
+    "calories": 164.73863013698633,
+    "proteins": 9.247808219178081,
+    "fats": 15.264231354642314,
+    "carbohydrates": 32.62085235920853,
+    "total_weight": 657.0,
+    "price": "103.47",
+    "meal_type": "dinner",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 5,
+  "fields": {
+    "name": "Паста Болоньезе",
+    "preparation_time": 16,
+    "difficulty": "Средний",
+    "calories": 161.94886178861788,
+    "proteins": 13.275374887082206,
+    "fats": 7.520767841011743,
+    "carbohydrates": 27.48514905149051,
+    "total_weight": 1107.0,
+    "price": "415.33",
+    "meal_type": "snack",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 6,
+  "fields": {
+    "name": "Салат Цезарь",
+    "preparation_time": 77,
+    "difficulty": "Средний",
+    "calories": 194.2354701492537,
+    "proteins": 8.11089552238806,
+    "fats": 11.12379850746269,
+    "carbohydrates": 31.572126865671642,
+    "total_weight": 1340.0,
+    "price": "213.71",
+    "meal_type": "snack",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 7,
+  "fields": {
+    "name": "Ризотто с грибами",
+    "preparation_time": 70,
+    "difficulty": "Легкий",
+    "calories": 169.98076744186048,
+    "proteins": 11.873325581395349,
+    "fats": 6.926441860465116,
+    "carbohydrates": 27.477054263565886,
+    "total_weight": 1290.0,
+    "price": "106.02",
+    "meal_type": "breakfast",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 8,
+  "fields": {
+    "name": "Плов с курицей",
+    "preparation_time": 16,
+    "difficulty": "Сложный",
+    "calories": 63.519224318658274,
+    "proteins": 12.536121593291403,
+    "fats": 14.434675052410899,
+    "carbohydrates": 21.064402515723273,
+    "total_weight": 477.0,
+    "price": "318.42",
+    "meal_type": "dinner",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 9,
+  "fields": {
+    "name": "Омлет с шампиньонами",
+    "preparation_time": 24,
+    "difficulty": "Сложный",
+    "calories": 146.23030493273544,
+    "proteins": 4.3469686098654705,
+    "fats": 10.854609865470852,
+    "carbohydrates": 34.54128251121077,
+    "total_weight": 1115.0,
+    "price": "239.39",
+    "meal_type": "dinner",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 10,
+  "fields": {
+    "name": "Греческий салат",
+    "preparation_time": 72,
+    "difficulty": "Средний",
+    "calories": 133.15652527075812,
+    "proteins": 11.82543321299639,
+    "fats": 14.183673285198557,
+    "carbohydrates": 27.019413357400722,
+    "total_weight": 1108.0,
+    "price": "490.86",
+    "meal_type": "dinner",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 11,
+  "fields": {
+    "name": "Тунец с киноа",
+    "preparation_time": 31,
+    "difficulty": "Легкий",
+    "calories": 132.3517624521073,
+    "proteins": 9.162452107279693,
+    "fats": 12.43816091954023,
+    "carbohydrates": 23.484750957854406,
+    "total_weight": 261.0,
+    "price": "203.36",
+    "meal_type": "snack",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 12,
+  "fields": {
+    "name": "Борщ с говядиной",
+    "preparation_time": 21,
+    "difficulty": "Сложный",
+    "calories": 142.8889525831564,
+    "proteins": 7.7276645435244165,
+    "fats": 6.6815640481245575,
+    "carbohydrates": 23.829370134465677,
+    "total_weight": 1413.0,
+    "price": "361.07",
+    "meal_type": "dinner",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 13,
+  "fields": {
+    "name": "Креветки в чесночном соусе",
+    "preparation_time": 72,
+    "difficulty": "Сложный",
+    "calories": 197.59070512820512,
+    "proteins": 12.85713141025641,
+    "fats": 12.425256410256411,
+    "carbohydrates": 35.907980769230775,
+    "total_weight": 624.0,
+    "price": "475.09",
+    "meal_type": "snack",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 14,
+  "fields": {
+    "name": "Паста с соусом песто",
+    "preparation_time": 33,
+    "difficulty": "Легкий",
+    "calories": 168.1347158218126,
+    "proteins": 10.715529953917052,
+    "fats": 12.312519201228879,
+    "carbohydrates": 28.625384024577574,
+    "total_weight": 1302.0,
+    "price": "403.81",
+    "meal_type": "lunch",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 15,
+  "fields": {
+    "name": "Запечённая свинина с картофелем",
+    "preparation_time": 50,
+    "difficulty": "Сложный",
+    "calories": 144.4360482374768,
+    "proteins": 6.421057513914657,
+    "fats": 11.707977736549168,
+    "carbohydrates": 39.401428571428575,
+    "total_weight": 1078.0,
+    "price": "266.99",
+    "meal_type": "breakfast",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 16,
+  "fields": {
+    "name": "Рыба с лимоном",
+    "preparation_time": 57,
+    "difficulty": "Сложный",
+    "calories": 161.48177966101696,
+    "proteins": 10.963220338983053,
+    "fats": 17.610186440677964,
+    "carbohydrates": 35.96574576271187,
+    "total_weight": 590.0,
+    "price": "171.20",
+    "meal_type": "snack",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 17,
+  "fields": {
+    "name": "Салат из свежих овощей",
+    "preparation_time": 56,
+    "difficulty": "Легкий",
+    "calories": 238.11862139917693,
+    "proteins": 9.787489711934157,
+    "fats": 9.490987654320987,
+    "carbohydrates": 25.44187242798354,
+    "total_weight": 486.0,
+    "price": "331.34",
+    "meal_type": "breakfast",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 18,
+  "fields": {
+    "name": "Сэндвич с тунцом",
+    "preparation_time": 27,
+    "difficulty": "Легкий",
+    "calories": 188.15802133850633,
+    "proteins": 4.934258001939864,
+    "fats": 7.243666343355964,
+    "carbohydrates": 31.056702230843843,
+    "total_weight": 1031.0,
+    "price": "159.01",
+    "meal_type": "lunch",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 19,
+  "fields": {
+    "name": "Куриное филе в апельсиновом соусе",
+    "preparation_time": 78,
+    "difficulty": "Средний",
+    "calories": 212.16986807387863,
+    "proteins": 7.305963060686014,
+    "fats": 11.258311345646437,
+    "carbohydrates": 32.61926121372032,
+    "total_weight": 758.0,
+    "price": "312.07",
+    "meal_type": "snack",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 20,
+  "fields": {
+    "name": "Вегетарианский кускус с овощами",
+    "preparation_time": 60,
+    "difficulty": "Средний",
+    "calories": 138.8949730312837,
+    "proteins": 4.153203883495146,
+    "fats": 10.404163969795038,
+    "carbohydrates": 34.01283710895362,
+    "total_weight": 927.0,
+    "price": "111.82",
+    "meal_type": "dinner",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 21,
+  "fields": {
+    "name": "Куриный салат с авокадо",
+    "preparation_time": 53,
+    "difficulty": "Сложный",
+    "calories": 203.6817151767152,
+    "proteins": 9.707162162162163,
+    "fats": 11.93587318087318,
+    "carbohydrates": 37.29607068607068,
+    "total_weight": 962.0,
+    "price": "464.02",
+    "meal_type": "snack",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 22,
+  "fields": {
+    "name": "Говяжий стейк с овощами",
+    "preparation_time": 55,
+    "difficulty": "Средний",
+    "calories": 117.16849533954726,
+    "proteins": 8.256964047936085,
+    "fats": 7.978535286284954,
+    "carbohydrates": 25.899760319573904,
+    "total_weight": 751.0,
+    "price": "408.97",
+    "meal_type": "snack",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 23,
+  "fields": {
+    "name": "Суп минестроне",
+    "preparation_time": 41,
+    "difficulty": "Средний",
+    "calories": 223.0864749536178,
+    "proteins": 9.213970315398887,
+    "fats": 13.254675324675325,
+    "carbohydrates": 32.23287569573284,
+    "total_weight": 539.0,
+    "price": "186.26",
+    "meal_type": "snack",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 24,
+  "fields": {
+    "name": "Лосось с брокколи на пару",
+    "preparation_time": 19,
+    "difficulty": "Сложный",
+    "calories": 266.0442629482071,
+    "proteins": 3.6771314741035854,
+    "fats": 11.343804780876495,
+    "carbohydrates": 24.777430278884463,
+    "total_weight": 502.0,
+    "price": "229.49",
+    "meal_type": "snack",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 25,
+  "fields": {
+    "name": "Паста Болоньезе",
+    "preparation_time": 86,
+    "difficulty": "Средний",
+    "calories": 147.96863636363636,
+    "proteins": 12.22779356060606,
+    "fats": 11.087547348484849,
+    "carbohydrates": 27.533229166666672,
+    "total_weight": 1056.0,
+    "price": "326.40",
+    "meal_type": "snack",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 26,
+  "fields": {
+    "name": "Салат Цезарь",
+    "preparation_time": 31,
+    "difficulty": "Средний",
+    "calories": 169.84313911143482,
+    "proteins": 11.345688273852875,
+    "fats": 8.246139839766933,
+    "carbohydrates": 31.475775673707215,
+    "total_weight": 1373.0,
+    "price": "483.79",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 27,
+  "fields": {
+    "name": "Ризотто с грибами",
+    "preparation_time": 74,
+    "difficulty": "Средний",
+    "calories": 172.5614540059347,
+    "proteins": 11.835816023738873,
+    "fats": 11.195667655786348,
+    "carbohydrates": 26.606884272997036,
+    "total_weight": 1348.0,
+    "price": "155.68",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 28,
+  "fields": {
+    "name": "Плов с курицей",
+    "preparation_time": 23,
+    "difficulty": "Легкий",
+    "calories": 155.14533861037816,
+    "proteins": 11.262735268249779,
+    "fats": 10.414283201407212,
+    "carbohydrates": 27.967000879507477,
+    "total_weight": 1137.0,
+    "price": "320.75",
+    "meal_type": "breakfast",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 29,
+  "fields": {
+    "name": "Омлет с шампиньонами",
+    "preparation_time": 10,
+    "difficulty": "Средний",
+    "calories": 103.93628318584068,
+    "proteins": 16.371238938053096,
+    "fats": 14.213938053097344,
+    "carbohydrates": 40.81464601769912,
+    "total_weight": 452.0,
+    "price": "394.55",
+    "meal_type": "lunch",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 30,
+  "fields": {
+    "name": "Греческий салат",
+    "preparation_time": 85,
+    "difficulty": "Средний",
+    "calories": 136.14993138936535,
+    "proteins": 6.2639279588336185,
+    "fats": 13.667753001715264,
+    "carbohydrates": 29.299176672384217,
+    "total_weight": 583.0,
+    "price": "146.81",
+    "meal_type": "dinner",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 31,
+  "fields": {
+    "name": "Тунец с киноа",
+    "preparation_time": 14,
+    "difficulty": "Средний",
+    "calories": 187.3097001934236,
+    "proteins": 9.107959381044486,
+    "fats": 8.011005802707931,
+    "carbohydrates": 35.56829787234042,
+    "total_weight": 1034.0,
+    "price": "232.54",
+    "meal_type": "breakfast",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 32,
+  "fields": {
+    "name": "Борщ с говядиной",
+    "preparation_time": 42,
+    "difficulty": "Средний",
+    "calories": 118.42634328358207,
+    "proteins": 7.6438971807628535,
+    "fats": 8.859046434494196,
+    "carbohydrates": 26.51847429519071,
+    "total_weight": 1206.0,
+    "price": "464.09",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 33,
+  "fields": {
+    "name": "Креветки в чесночном соусе",
+    "preparation_time": 84,
+    "difficulty": "Сложный",
+    "calories": 191.25366698748797,
+    "proteins": 7.146438883541867,
+    "fats": 11.69315688161694,
+    "carbohydrates": 34.47472569778634,
+    "total_weight": 1039.0,
+    "price": "147.91",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 34,
+  "fields": {
+    "name": "Паста с соусом песто",
+    "preparation_time": 59,
+    "difficulty": "Легкий",
+    "calories": 192.35430801248702,
+    "proteins": 9.94544224765869,
+    "fats": 3.9943496357960457,
+    "carbohydrates": 28.251227887617066,
+    "total_weight": 961.0,
+    "price": "144.11",
+    "meal_type": "breakfast",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 35,
+  "fields": {
+    "name": "Запечённая свинина с картофелем",
+    "preparation_time": 42,
+    "difficulty": "Легкий",
+    "calories": 146.0280319148936,
+    "proteins": 13.008138297872339,
+    "fats": 14.760797872340426,
+    "carbohydrates": 43.75271276595745,
+    "total_weight": 564.0,
+    "price": "323.78",
+    "meal_type": "dinner",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 36,
+  "fields": {
+    "name": "Рыба с лимоном",
+    "preparation_time": 66,
+    "difficulty": "Легкий",
+    "calories": 170.9197797927461,
+    "proteins": 9.972668393782385,
+    "fats": 11.040246113989635,
+    "carbohydrates": 27.209235751295335,
+    "total_weight": 772.0,
+    "price": "270.36",
+    "meal_type": "dinner",
+    "is_vegan": false
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 37,
+  "fields": {
+    "name": "Салат из свежих овощей",
+    "preparation_time": 28,
+    "difficulty": "Легкий",
+    "calories": 210.60251256281407,
+    "proteins": 8.295326633165828,
+    "fats": 7.312713567839195,
+    "carbohydrates": 36.721030150753776,
+    "total_weight": 398.0,
+    "price": "480.70",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 38,
+  "fields": {
+    "name": "Сэндвич с тунцом",
+    "preparation_time": 24,
+    "difficulty": "Легкий",
+    "calories": 191.67243610223645,
+    "proteins": 12.07867412140575,
+    "fats": 12.327268370607028,
+    "carbohydrates": 33.82152555910543,
+    "total_weight": 1252.0,
+    "price": "193.50",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 39,
+  "fields": {
+    "name": "Куриное филе в апельсиновом соусе",
+    "preparation_time": 37,
+    "difficulty": "Легкий",
+    "calories": 164.88742209631727,
+    "proteins": 10.79070821529745,
+    "fats": 7.2087252124645875,
+    "carbohydrates": 27.073597733711047,
+    "total_weight": 353.0,
+    "price": "312.08",
+    "meal_type": "breakfast",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipe",
+  "pk": 40,
+  "fields": {
+    "name": "Вегетарианский кускус с овощами",
+    "preparation_time": 45,
+    "difficulty": "Сложный",
+    "calories": 145.0315894039735,
+    "proteins": 8.363337748344371,
+    "fats": 10.580397350993378,
+    "carbohydrates": 34.19458278145695,
+    "total_weight": 755.0,
+    "price": "483.45",
+    "meal_type": "lunch",
+    "is_vegan": true
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 201,
+  "fields": {
+    "recipe": 1,
+    "product": 1,
+    "quantity": 300.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 202,
+  "fields": {
+    "recipe": 1,
+    "product": 32,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 203,
+  "fields": {
+    "recipe": 2,
+    "product": 2,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 204,
+  "fields": {
+    "recipe": 2,
+    "product": 44,
+    "quantity": 5.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 205,
+  "fields": {
+    "recipe": 2,
+    "product": 12,
+    "quantity": 120.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 206,
+  "fields": {
+    "recipe": 3,
+    "product": 17,
+    "quantity": 300.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 207,
+  "fields": {
+    "recipe": 3,
+    "product": 10,
+    "quantity": 40.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 208,
+  "fields": {
+    "recipe": 3,
+    "product": 12,
+    "quantity": 120.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 209,
+  "fields": {
+    "recipe": 3,
+    "product": 19,
+    "quantity": 50.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 210,
+  "fields": {
+    "recipe": 3,
+    "product": 36,
+    "quantity": 100.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 211,
+  "fields": {
+    "recipe": 4,
+    "product": 4,
+    "quantity": 400.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 212,
+  "fields": {
+    "recipe": 4,
+    "product": 8,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 213,
+  "fields": {
+    "recipe": 5,
+    "product": 19,
+    "quantity": 300.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 214,
+  "fields": {
+    "recipe": 5,
+    "product": 2,
+    "quantity": 300.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 215,
+  "fields": {
+    "recipe": 5,
+    "product": 10,
+    "quantity": 40.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 216,
+  "fields": {
+    "recipe": 5,
+    "product": 12,
+    "quantity": 100.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 217,
+  "fields": {
+    "recipe": 5,
+    "product": 44,
+    "quantity": 12.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 218,
+  "fields": {
+    "recipe": 6,
+    "product": 1,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 219,
+  "fields": {
+    "recipe": 6,
+    "product": 36,
+    "quantity": 50.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 220,
+  "fields": {
+    "recipe": 6,
+    "product": 14,
+    "quantity": 100.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 221,
+  "fields": {
+    "recipe": 6,
+    "product": 44,
+    "quantity": 70.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 222,
+  "fields": {
+    "recipe": 7,
+    "product": 49,
+    "quantity": 20.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 223,
+  "fields": {
+    "recipe": 8,
+    "product": 18,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 224,
+  "fields": {
+    "recipe": 8,
+    "product": 1,
+    "quantity": 300.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 225,
+  "fields": {
+    "recipe": 8,
+    "product": 10,
+    "quantity": 40.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 226,
+  "fields": {
+    "recipe": 8,
+    "product": 49,
+    "quantity": 25.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 227,
+  "fields": {
+    "recipe": 8,
+    "product": 44,
+    "quantity": 10.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 228,
+  "fields": {
+    "recipe": 10,
+    "product": 12,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 229,
+  "fields": {
+    "recipe": 10,
+    "product": 13,
+    "quantity": 50.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 230,
+  "fields": {
+    "recipe": 10,
+    "product": 36,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 231,
+  "fields": {
+    "recipe": 10,
+    "product": 44,
+    "quantity": 40.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 232,
+  "fields": {
+    "recipe": 11,
+    "product": 20,
+    "quantity": 100.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 233,
+  "fields": {
+    "recipe": 11,
+    "product": 5,
+    "quantity": 180.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 234,
+  "fields": {
+    "recipe": 11,
+    "product": 32,
+    "quantity": 220.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 235,
+  "fields": {
+    "recipe": 11,
+    "product": 13,
+    "quantity": 120.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 236,
+  "fields": {
+    "recipe": 11,
+    "product": 14,
+    "quantity": 70.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 237,
+  "fields": {
+    "recipe": 11,
+    "product": 41,
+    "quantity": 2.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 238,
+  "fields": {
+    "recipe": 11,
+    "product": 46,
+    "quantity": 30.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 239,
+  "fields": {
+    "recipe": 11,
+    "product": 44,
+    "quantity": 34.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 240,
+  "fields": {
+    "recipe": 12,
+    "product": 2,
+    "quantity": 500.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 241,
+  "fields": {
+    "recipe": 12,
+    "product": 11,
+    "quantity": 130.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 242,
+  "fields": {
+    "recipe": 12,
+    "product": 17,
+    "quantity": 250.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 243,
+  "fields": {
+    "recipe": 12,
+    "product": 16,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 244,
+  "fields": {
+    "recipe": 12,
+    "product": 10,
+    "quantity": 100.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 245,
+  "fields": {
+    "recipe": 12,
+    "product": 44,
+    "quantity": 34.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 246,
+  "fields": {
+    "recipe": 13,
+    "product": 6,
+    "quantity": 1000.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 247,
+  "fields": {
+    "recipe": 13,
+    "product": 49,
+    "quantity": 40.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 248,
+  "fields": {
+    "recipe": 13,
+    "product": 44,
+    "quantity": 20.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 249,
+  "fields": {
+    "recipe": 14,
+    "product": 19,
+    "quantity": 100.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 250,
+  "fields": {
+    "recipe": 14,
+    "product": 6,
+    "quantity": 200.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 251,
+  "fields": {
+    "recipe": 14,
+    "product": 49,
+    "quantity": 5.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 252,
+  "fields": {
+    "recipe": 14,
+    "product": 44,
+    "quantity": 17.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 253,
+  "fields": {
+    "recipe": 15,
+    "product": 3,
+    "quantity": 450.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 254,
+  "fields": {
+    "recipe": 15,
+    "product": 46,
+    "quantity": 50.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 255,
+  "fields": {
+    "recipe": 15,
+    "product": 17,
+    "quantity": 360.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 256,
+  "fields": {
+    "recipe": 16,
+    "product": 4,
+    "quantity": 1500.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 257,
+  "fields": {
+    "recipe": 16,
+    "product": 48,
+    "quantity": 480.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 258,
+  "fields": {
+    "recipe": 17,
+    "product": 16,
+    "quantity": 220.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 259,
+  "fields": {
+    "recipe": 17,
+    "product": 48,
+    "quantity": 36.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 260,
+  "fields": {
+    "recipe": 17,
+    "product": 12,
+    "quantity": 150.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 261,
+  "fields": {
+    "recipe": 17,
+    "product": 13,
+    "quantity": 150.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 262,
+  "fields": {
+    "recipe": 18,
+    "product": 22,
+    "quantity": 160.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 263,
+  "fields": {
+    "recipe": 18,
+    "product": 5,
+    "quantity": 150.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 264,
+  "fields": {
+    "recipe": 18,
+    "product": 36,
+    "quantity": 80.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 265,
+  "fields": {
+    "recipe": 18,
+    "product": 33,
+    "quantity": 60.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 266,
+  "fields": {
+    "recipe": 18,
+    "product": 15,
+    "quantity": 8.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 267,
+  "fields": {
+    "recipe": 19,
+    "product": 1,
+    "quantity": 400.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 268,
+  "fields": {
+    "recipe": 19,
+    "product": 25,
+    "quantity": 100.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 269,
+  "fields": {
+    "recipe": 19,
+    "product": 50,
+    "quantity": 12.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 270,
+  "fields": {
+    "recipe": 39,
+    "product": 49,
+    "quantity": 10.0
+  }
+},
+{
+  "model": "menu.recipeingredient",
+  "pk": 271,
+  "fields": {
+    "recipe": 19,
+    "product": 44,
+    "quantity": 25.0
+  }
+},
+{
+  "model": "account.customuser",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$qlZOB2YVmeEz3ooJwV3ZqW$31R9joX91vgrj73XGecNY18A5+b7iKqPs48XwtO+QQU=",
+    "last_login": "2025-03-24T06:51:26.265Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-03-24T06:51:11.753Z",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "goal": null,
+    "activity_level": null,
+    "groups": [],
+    "user_permissions": [],
+    "favorites": [],
+    "allergy": []
+  }
+},
+{
+  "model": "account.customuser",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$495bRyWqMN1QDxuSCt7JIk$sFksyvYfAOdpp9oPaBvl3xtLbmRHPRTHB4YXkxHUi+E=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user",
+    "first_name": "",
+    "last_name": "",
+    "email": "mrt@y.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-03-24T07:06:51.987Z",
+    "age": 21,
+    "height": 192,
+    "weight": 100,
+    "goal": "mass_gain",
+    "activity_level": "high",
+    "groups": [],
+    "user_permissions": [],
+    "favorites": [
+      6
+    ],
+    "allergy": [
+      9,
+      25
+    ]
+  }
+},
+{
+  "model": "account.customuser",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$Ws96oqQ4qcrHICQ059brSY$vpmPEqOrWkii4j3WpZ3Hi505HGfBeBwO+tIaCI48OIw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "twtwet",
+    "first_name": "",
+    "last_name": "",
+    "email": "twet@g.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-03-26T02:53:33.392Z",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "goal": null,
+    "activity_level": null,
+    "groups": [],
+    "user_permissions": [],
+    "favorites": [],
+    "allergy": []
+  }
+},
+{
+  "model": "account.customuser",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$mDLfLZQItymlEcdXTCOOSL$cM/OfXL7tZkO5kyKDrghB4uu6+GZdATdXAlF0IsBfOQ=",
+    "last_login": "2025-04-02T11:22:54.400Z",
+    "is_superuser": true,
+    "username": "1",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-04-02T10:56:51.875Z",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "goal": null,
+    "activity_level": null,
+    "groups": [],
+    "user_permissions": [],
+    "favorites": [],
+    "allergy": []
+  }
+}
+]
