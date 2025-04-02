@@ -51,7 +51,12 @@
     methods: {
       async register() {
         if (this.password !== this.passwordConfirm) {
-          alert('Пароли не совпадают!');
+          this.$root.showErrorModal('Пароли не совпадают!');
+          return;
+        }
+        const EMAIL_REGEXP = /^(([^<>()[\].,;:\s@"]+(\.[^<>()[\].,;:\s@"]+)*)|(".+"))@(([^<>()[\].,;:\s@"]+\.)+[^<>()[\].,;:\s@"]{2,})$/iu;
+        if (!(EMAIL_REGEXP.test(this.email))) {
+          this.$root.showErrorModal('Неправильно указана почта!', 'Пример: example@mail.com');
           return;
         }
         try {
@@ -60,10 +65,19 @@
             email: this.email,
             password: this.password,
           });
-          alert('Регистрация прошла успешно! Теперь войдите в аккаунт.');
+          this.$root.showErrorModal('Регистрация прошла успешно!', 'Теперь войдите в аккаунт.', true);
           this.$router.push('/login');
         } catch (error) {
-          alert('Ошибка при регистрации: ' + (error.response?.data?.detail || 'Попробуйте снова.'));
+          const data = error.response?.data;
+          const firstKey = Object.keys(data)[0];
+          const firstError = data[firstKey];
+          let errorMessage = ''
+          if (Array.isArray(firstError)) {
+            errorMessage = `${firstKey}: ${firstError[0]}`;
+          } else if (typeof firstError === 'string') {
+            errorMessage = `${firstKey}: ${firstError}`;
+          }
+          this.$root.showErrorModal('Ошибка при регистрации', errorMessage);
         }
       },
     },
